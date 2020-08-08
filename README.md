@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/jeffersonxplode/pontointeligente-api.svg?branch=master)](https://travis-ci.org/jeffersonxplode/pontointeligente-api)
